@@ -18,4 +18,4 @@ The images attached include:-
   3. E-mail notification.
   
   
-  - The currency in the email needs to be USD instead of INR
+- The currency in the email needs to be USD instead of INR
