@@ -14,8 +14,8 @@ Some features that I tried to take care of to make the code more dynamic, and al
 The data also gets stored in a csv file, everytime it is collected.
 The images attached include:-
   1. A snippet of what it looks like once the code is run.
-	2. Excel data of the collected information.
-	3. E-mail notification.
+  2. Excel data of the collected information.	
+  3. E-mail notification.
   
   
   - The currency in the email needs to be USD instead of INR
