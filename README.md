@@ -16,6 +16,7 @@ The images attached include:-
   1. A snippet of what it looks like once the code is run.
   2. Excel data of the collected information.	
   3. E-mail notification.
-  
-  
+
+
+
 Note: The currency in the email needs to be USD instead of INR
